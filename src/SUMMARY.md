@@ -5,4 +5,4 @@
 
 ---
 
-[Get Inspired](./get-inspired.md)
+[Support](./SUPPORT.md)
